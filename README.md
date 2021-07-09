@@ -1,7 +1,7 @@
 <h2 align="center">Hello World! :earth_americas:</h2>
 
 <a href="https://https://github.com/OctavioDelpupo">
-    <img src="https://img.shields.io/github/followers/lucasrmagalhaes?label=follow&style=social" height="22" title="Follow me" align="right" alt="GitHub">
+    <img src="https://img.shields.io/github/followers/OctavioDelpupo?label=follow&style=social" height="22" title="Follow me" align="right" alt="GitHub">
 </a>
 
 <a href="mailto:octavio.delpupo@gmail.com">
