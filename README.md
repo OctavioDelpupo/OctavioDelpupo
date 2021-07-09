@@ -8,8 +8,6 @@
     <img src="https://img.shields.io/github/followers/OctavioDelpupo?style=social" height="22" title="Follow me" align="right" alt="GitHub">
 </a>
 
-
-
 <a href="https://api.whatsapp.com/send?phone=5527998193510">
     <img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat&labelColor=4CA143&logo=whatsapp&logoColor=white" title="Text me" align="right" alt="Whatsapp">
 </a>
@@ -21,4 +19,6 @@
 <a href="https://www.linkedin.com/in/octavio-delpupo/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" title="My Social Network" align="right" alt="LinkedIn">
 </a>
+
+
 
