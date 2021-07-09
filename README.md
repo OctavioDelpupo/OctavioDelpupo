@@ -2,12 +2,13 @@
 
 :wave: Hi, I'm Octávio Delpupo studying Systems Analysis and Development.<br>:man_technologist: I'm interested in learning current technologies to work in the area as a developer.<br>
 :seedling: I'm currently learning, HTML, CSS, JS<br>
+![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=OctavioDelpupo&repo=OctavioDelpupo&countColorcountColor&countColor=%237B1E7A)<br>
 
 <a href="https://https://github.com/OctavioDelpupo">
     <img src="https://img.shields.io/github/followers/OctavioDelpupo?style=social" height="22" title="Follow me" align="right" alt="GitHub">
 </a>
 
-![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=OctavioDelpupo&repo=OctavioDelpupo&countColorcountColor&countColor=%237B1E7A)
+
 
 <a href="https://api.whatsapp.com/send?phone=5527998193510">
     <img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat&labelColor=4CA143&logo=whatsapp&logoColor=white" title="Text me" align="right" alt="Whatsapp">
