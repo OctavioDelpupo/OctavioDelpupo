@@ -1,6 +1,6 @@
 ![Visits](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=WashingtonSBS&repo=OctavioDelpupo&countColorcountColor&countColor=%237B1E7A)
 
-<h2 align="center">Hello World! :earth_americas:</h2>
+<h1 align="center">Hello World! :earth_americas:</h1>
 
 :wave: Hi, I'm Octávio Delpupo studying Systems Analysis and Development.<br>:man_technologist: I'm interested in learning current technologies to work in the area as a developer.<br>
 
