@@ -45,6 +45,7 @@
 
 
 ## Contact me
+<p> 
 
 [![Gmail Badge](https://img.shields.io/badge/-octavio.delpupo-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:octavio.delpupo@gmail.com)](mailto:octavio.delpupo@gmail.com)
 
@@ -54,8 +55,10 @@
 
 [![Github Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5527998193510)](https://api.whatsapp.com/send?phone=5527998193510)
 
+</p>
 
-![Snake animation](https://github.com/malanski/OctavioDelpupo/blob/output/github-contribution-grid-snake.svg)
+
+![Snake animation](https://github.com/OctavioDelpupo/OctavioDelpupo/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center"> 
   Visitor count<br>
