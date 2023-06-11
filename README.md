@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! :earth_americas:</h1>
+<h1 align="center">Hello World! </h1>
 
 :wave: Hi, I'm Octávio Delpupo studying Systems Analysis and Development.<br>:man_technologist: I'm interested in learning current technologies to work in the area as a developer.<br>
 
@@ -8,9 +8,6 @@
 [![Github Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/default.asp)
 [![Github Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.w3schools.com/css/default.asp)
 [![Github Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![Github Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.w3schools.com/cpp/default.asp)
-
-
 
 ## 💻 Tools
 
@@ -21,7 +18,7 @@
 ## 💻 SO
 
 [![Github Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/pt-br/software-download/windows11)
-[![Github Badge](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+
 
 
 
@@ -49,7 +46,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-octavio.delpupo-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:octavio.delpupo@gmail.com)](mailto:octavio.delpupo@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/WashingtonSBS/)](https://www.linkedin.com/in/octavio-delpupo/)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/WashingtonSBS)](https://github.com/OctavioDelpupo)
-[![Github Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5527998193510)](https://api.whatsapp.com/send?phone=5527998193510)
 </p>
 
 
