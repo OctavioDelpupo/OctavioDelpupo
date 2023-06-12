@@ -2,6 +2,13 @@
 
 :wave: Hi, I'm Octávio Delpupo studying Systems Analysis and Development.<br>:man_technologist: I'm interested in learning current technologies to work in the area as a developer.<br>
 
+
+<div>
+<img src="./img/programmer-writing-code-and-pc.gif" alt="Menino programando">
+</div>
+
+
+
 ## 💻 Technologies 
 
 [![Github Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/default.asp)
