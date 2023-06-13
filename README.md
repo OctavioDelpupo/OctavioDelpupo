@@ -55,8 +55,6 @@ I'm Octávio Delpupo studying Systems Analysis and Development.
   <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=octaviodelpupo&layout=compact&langs_count=16&theme=radical&link=https://github.com/octaviodelpupo"/> -->
 </div>
 
-
-## Contact me
 <p>
 
 ![Snake animation](https://github.com/OctavioDelpupo/OctavioDelpupo/blob/output/github-contribution-grid-snake.svg)
