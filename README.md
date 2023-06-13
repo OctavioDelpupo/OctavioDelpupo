@@ -41,13 +41,18 @@ I'm Octávio Delpupo studying Systems Analysis and Development.
 [![Github Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![Github Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.w3schools.com/css/default.asp)
 
+<br>
 
 ### 👩‍💻 &nbsp;Back-End
 
 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+<br>
+
 ### <img width=20 src="./img/Database.png" alt="banco de dados"> &nbsp;Database 
 
-
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 
@@ -56,7 +61,7 @@ I'm Octávio Delpupo studying Systems Analysis and Development.
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=octaviodelpupo&show_icons=true&theme=radical&include_all_commits=true&count_private=true&link=https://github.com/octaviodelpupo"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=octaviodelpupo&layout=compact&langs_count=16&theme=radical&link=https://github.com/octaviodelpupo"/>
+  <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=octaviodelpupo&layout=compact&langs_count=16&theme=radical&link=https://github.com/octaviodelpupo"/> -->
 </div>
 
 
