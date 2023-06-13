@@ -50,14 +50,11 @@ I'm Octávio Delpupo studying Systems Analysis and Development.
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=octaviodelpupo&show_icons=true&theme=radical&include_all_commits=true&count_private=true&link=https://github.com/octaviodelpupo"/>
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=octaviodelpupo&theme=radical"/>
+  
   <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=octaviodelpupo&layout=compact&langs_count=16&theme=radical&link=https://github.com/octaviodelpupo"/> -->
 </div>
 
-⚡ GitHub Streak
-
-<div align="center">
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=octaviodelpupo&theme=radical"/>
-</div>
 
 ## Contact me
 <p>
