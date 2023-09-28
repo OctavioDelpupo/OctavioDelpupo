@@ -16,7 +16,7 @@
 
 </div>
 
-***
+---
 
 ### About me
 
@@ -26,11 +26,12 @@ I'm Octávio Delpupo studying Systems Analysis and Development.
 <br>
 👨‍💻 I'm interested in learning current technologies to work in the area as a developer.
 
-***
+---
 
 ## 🛠 &nbsp;Tech Stack
 
 ### 🎨 &nbsp;Front-end
+
 [![Github Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/default.asp)
 [![Github Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/default.asp)
 [![Github Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
@@ -38,29 +39,17 @@ I'm Octávio Delpupo studying Systems Analysis and Development.
 
 ### 👩‍💻 &nbsp;Back-End
 
-
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-
-### <img width=20 src="./img/Database.png" alt="banco de dados"> &nbsp;Database 
+### <img width=20 src="./img/Database.png" alt="banco de dados"> &nbsp;Database
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## ⚡ GitHub Stats
 
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=octaviodelpupo&show_icons=true&theme=radical&include_all_commits=true&count_private=true&link=https://github.com/octaviodelpupo"/>
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=octaviodelpupo&theme=radical"/>
-  
-  <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=octaviodelpupo&layout=compact&langs_count=16&theme=radical&link=https://github.com/octaviodelpupo"/> -->
-</div>
+| <a href="https://github.com/OctavioDelpupo/github-readme-stats"><img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=OctavioDelpupo&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="OctavioDelpupo github stats" /></a> | <a href="https://github.com/OctavioDelpupo/github-readme-stats"><img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OctavioDelpupo&layout=compact&theme=radical&hide_border=true" /></a> |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <p>
 
 ![Snake animation](https://github.com/OctavioDelpupo/OctavioDelpupo/blob/output/github-contribution-grid-snake.svg)
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/OctavioDelpupo/count.svg" />
-</p> 
-
