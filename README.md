@@ -45,7 +45,7 @@ I'm Octávio Delpupo studying Systems Analysis and Development.
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-## ⚡ GitHub Stats
+<h3>⚡ GitHub Stats </h3>
 
 | <a href="https://github.com/OctavioDelpupo/github-readme-stats"><img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=OctavioDelpupo&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="OctavioDelpupo github stats" /></a> | <a href="https://github.com/OctavioDelpupo/github-readme-stats"><img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OctavioDelpupo&layout=compact&theme=radical&hide_border=true" /></a> |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
