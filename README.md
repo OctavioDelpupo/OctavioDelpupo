@@ -1,14 +1,14 @@
-<h1 align="center">Hello World! <img width=40 src="./img/rocket.png" alt="Mundo com foguete"> </h1>
+![logo](https://github.com/OctavioDelpupo/OctavioDelpupo/blob/main/img/Banner%20Octavio.png)
 
-<div align="center">
-<img src="./img/programmer-writing-code-and-pc.gif" alt="Menino programando">
-</div>
+<h1 align="center">Hi 👋, I'm Octavio Delpupo</h1>
 
-<h3 align="center">
-  Connect with me
-</h3>
+<img align="right" alt="coding" width="400" src="https://github.com/OctavioDelpupo/octaviodelpupo/blob/main/img/programmer-writing-code-and-pc.gif">
 
-<div align="center">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=OctavioDelpupo-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="octavio-delpupo" /> </p>
+
+<h3 align="left">Connect with me:</h3>
+
+<div align="left">
 
 [![Gmail Badge](https://img.shields.io/badge/-octavio.delpupo-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:octavio.delpupo@gmail.com)](mailto:octavio.delpupo@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/WashingtonSBS/)](https://www.linkedin.com/in/octavio-delpupo/)
@@ -16,19 +16,9 @@
 
 </div>
 
----
+<h3 align="left">Languages and Tools:</h3>
 
-### About me
-
-Hey there 👋
-
-I'm Octávio Delpupo studying Systems Analysis and Development.
-<br>
-👨‍💻 I'm interested in learning current technologies to work in the area as a developer.
-
----
-
-## 🛠 &nbsp;Tech Stack
+<div align="left">
 
 ### 🎨 &nbsp;Front-end
 
@@ -41,13 +31,13 @@ I'm Octávio Delpupo studying Systems Analysis and Development.
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-### <img width=20 src="./img/Database.png" alt="banco de dados"> &nbsp;Database
+### <img width=20 src="https://github.com/OctavioDelpupo/OctavioDelpupo/blob/main/img/Database.png" alt="Database"> &nbsp;Database
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
 
 <h3>⚡ GitHub Stats </h3>
 
 | <a href="https://github.com/OctavioDelpupo/github-readme-stats"><img align="center"  src="https://github-readme-stats.vercel.app/api?username=OctavioDelpupo&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="OctavioDelpupo github stats" /></a> | <a href="https://github.com/OctavioDelpupo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OctavioDelpupo&layout=compact&theme=radical&hide_border=true" /></a> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-![Snake animation](https://github.com/OctavioDelpupo/OctavioDelpupo/blob/output/github-contribution-grid-snake.svg)
