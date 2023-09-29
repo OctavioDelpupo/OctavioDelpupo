@@ -39,5 +39,5 @@
 
 <h3>⚡ GitHub Stats </h3>
 
-| <a href="https://github.com/OctavioDelpupo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=OctavioDelpupo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Octavio Delpupo github stats" /></a> | <a href="https://github.com/OctavioDelpupo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OctavioDelpupo&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/OctavioDelpupo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=OctavioDelpupo&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Octavio Delpupo github stats" /></a> | <a href="https://github.com/OctavioDelpupo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OctavioDelpupo&layout=compact&theme=radical&hide_border=true" /></a> |
 | ------------- | ------------- |
