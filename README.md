@@ -11,9 +11,9 @@
 <div align="left">
 
 [![Gmail Badge](https://img.shields.io/badge/-octavio.delpupo-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:octavio.delpupo@gmail.com)](mailto:octavio.delpupo@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/WashingtonSBS/)](https://www.linkedin.com/in/octavio-delpupo/){:target="_blank"}
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/WashingtonSBS/)](https://www.linkedin.com/in/octavio-delpupo/){target="_blank"}
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/WashingtonSBS)](https://github.com/OctavioDelpupo)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://octaviodelpupo.github.io/){:target="_blank"}
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://octaviodelpupo.github.io/)
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
