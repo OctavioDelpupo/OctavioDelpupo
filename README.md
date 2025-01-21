@@ -1,7 +1,6 @@
 <h1 align="left">Hi 👋, I'm Octavio Delpupo</h1>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=OctavioDelpupo-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="octavio-delpupo" /> </p>
 
-<img align="center" alt="coding" width="400" src="https://github.com/OctavioDelpupo/octaviodelpupo/blob/main/img/programmer-writing-code-and-pc.gif">
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=OctavioDelpupo-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="octavio-delpupo" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 
@@ -21,5 +20,6 @@
 
 <h3>⚡ GitHub Stats </h3>
 
-| <a href="https://github.com/OctavioDelpupo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=OctavioDelpupo&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Octavio Delpupo github stats" /></a> | <a href="https://github.com/OctavioDelpupo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OctavioDelpupo&layout=compact&theme=radical&hide_border=true" /></a> |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+<a href="https://github.com/OctavioDelpupo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=OctavioDelpupo&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Octavio Delpupo github stats" /></a>
+
+<a href="https://github.com/OctavioDelpupo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OctavioDelpupo&layout=compact&theme=radical&hide_border=true" /></a>
